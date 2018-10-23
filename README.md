@@ -1,4 +1,4 @@
-# pomodoro_component_vue
+# egg_timers_vue
 
 > A Vue.js project
 
